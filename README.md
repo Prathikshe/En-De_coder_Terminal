@@ -42,7 +42,9 @@ Pic 3:
                                
 Pic 4:
 
-<img width="524" alt="color" src="https://user-images.githubusercontent.com/63283543/126078974-ba6c9c85-1278-4272-bb0e-5a6113639524.png">
+
+<img width="1008" alt="pic4" src="https://user-images.githubusercontent.com/63283543/135707285-2116c397-e933-4bba-b47a-94a1bceae477.png">
+<img width="1008" alt="pic4 1" src="https://user-images.githubusercontent.com/63283543/135707289-58e9b6c9-bce7-49eb-81ff-d88ec0ffa0b3.png">
 
                                          Select the colour of the text to be Water Marked
                                
