@@ -55,7 +55,10 @@ Pics 4:
 <img width="1008" alt="pic4" src="https://user-images.githubusercontent.com/63283543/135707285-2116c397-e933-4bba-b47a-94a1bceae477.png">
 <img width="1008" alt="pic4 1" src="https://user-images.githubusercontent.com/63283543/135707289-58e9b6c9-bce7-49eb-81ff-d88ec0ffa0b3.png">
 
-                                         Select the colour of the text to be Water Marked
+            In the First Text window type the Message You need to Reverse.
+            Press The reverse menu to reverse the message.
+            Reverse string is displayed in the second text Window.
+            Same way paste the reverse Massage and Press reverse and get the actual Message to Read. 
                                
                                
 Pics 5:
@@ -64,7 +67,10 @@ Pics 5:
 <img width="960" alt="pic6 1" src="https://user-images.githubusercontent.com/63283543/135707605-b1e520de-6faf-42d6-9fe2-1c89851eea33.png">
 
 
-                                      Select the font Size of the  text to be Water Marked
+             There is a feature of right click Menu to Cut,Copy,Paste,Select all and Exit.
+             Right Click on Mouse will give you this Menu to easily manupulate the Text and Codes Generated.
+             You can also use the Shortcuts to Cut,Copy,Paste,Select all and Exit.
+             There is a Clear Screen menu which clears Both Input & Output Text window.
                                
 Pics 6:
 
