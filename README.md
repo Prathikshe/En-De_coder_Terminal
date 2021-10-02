@@ -21,7 +21,7 @@ Some of the **Snap Shots** of the application are shared below as Users menu.
 
 Pic 1:
 
-<img width="425" alt="pic1" src="https://user-images.githubusercontent.com/63283543/135706346-bfa4cb85-4fc5-4d0c-a91f-c87c14e5910b.png"><img width="425" alt="pic1 1" src="https://user-images.githubusercontent.com/63283543/135706369-c4161b54-7a24-48cd-ab55-22f00ece2138.png">
+<img width="500" alt="pic1" src="https://user-images.githubusercontent.com/63283543/135706346-bfa4cb85-4fc5-4d0c-a91f-c87c14e5910b.png"><img width="500" alt="pic1 1" src="https://user-images.githubusercontent.com/63283543/135706369-c4161b54-7a24-48cd-ab55-22f00ece2138.png">
 
 
                                The Window of the Application to create and merge the Watermark in PDF
