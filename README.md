@@ -21,7 +21,7 @@ Some of the **Snap Shots** of the application are shared below as Users menu.
 
 Pic 1:
 
-<img width="504" alt="pic1" src="https://user-images.githubusercontent.com/63283543/135706346-bfa4cb85-4fc5-4d0c-a91f-c87c14e5910b.png"> <img width="504" alt="pic1 1" src="https://user-images.githubusercontent.com/63283543/135706369-c4161b54-7a24-48cd-ab55-22f00ece2138.png">
+<img width="503" alt="pic1" src="https://user-images.githubusercontent.com/63283543/135706346-bfa4cb85-4fc5-4d0c-a91f-c87c14e5910b.png"> <img width="503" alt="pic1 1" src="https://user-images.githubusercontent.com/63283543/135706369-c4161b54-7a24-48cd-ab55-22f00ece2138.png">
 
 
                                The Window of the Application to create and merge the Watermark in PDF
@@ -35,8 +35,8 @@ Pic 2:
 
 Pic 3:
 
-<img width="524" alt="patern" src="https://user-images.githubusercontent.com/63283543/126078956-9ffd4c07-b96b-4682-a2f9-12fa90e8b746.png">
 
+<img width="503" alt="pic3" src="https://user-images.githubusercontent.com/63283543/135707166-7136beb1-e3c9-4922-84c2-c99f185dba42.png"> <img width="503" alt="pic3 1" src="https://user-images.githubusercontent.com/63283543/135707174-40328a51-1b13-41db-824f-a06fe9874679.png">
 
                                                  Menu to select the pattern type 
                                
