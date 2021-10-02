@@ -25,7 +25,7 @@ Pics 1:
 
 
              The Window of the Application First Appears as this.
-             Application has two text window Superated equaly at the Center.
+             Application has two text window separated equaly at the Center.
              You can select Two type of layout Horizantaly or Verticaly as you desire and comfertable.
              Menu to change layour is as shown in the above pic.
                                
