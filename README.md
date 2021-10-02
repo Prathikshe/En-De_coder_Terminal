@@ -77,7 +77,8 @@ Pics 6:
 <img width="503" alt="pic5 1" src="https://user-images.githubusercontent.com/63283543/135707465-5ec25f39-2ed3-4d79-b88c-31d867af4260.png"> <img width="503" alt="pic5 2" src="https://user-images.githubusercontent.com/63283543/135707471-7dd9210e-af3f-47a8-b0dc-f6f08ef56cb0.png">
 <img width="503" alt="pic5 3" src="https://user-images.githubusercontent.com/63283543/135707474-15c3f9b0-1faf-4ca6-8954-85028fd26df6.png"> <img width="503" alt="pic 5 4" src="https://user-images.githubusercontent.com/63283543/135707479-f4366eab-4b0c-43f9-a62b-2aa7acf1d1b3.png">
 
-                                            
+             There are four Different Colour Themes you can use rather than Defaule Colour Theme.
+             You can choose your desired Theme, They appear as shown in the above pics.
 
 
 Screen shots of the application can be found in screenshots folder(find in above files)
