@@ -24,16 +24,16 @@ Pics 1:
 <img width="503" alt="pic1" src="https://user-images.githubusercontent.com/63283543/135706346-bfa4cb85-4fc5-4d0c-a91f-c87c14e5910b.png"> <img width="503" alt="pic1 1" src="https://user-images.githubusercontent.com/63283543/135706369-c4161b54-7a24-48cd-ab55-22f00ece2138.png">
 
 
-                               The Window of the Application First Appears as this.
-                               Application has two text window Superated equaly at the Center.
-                               You can select Two type of layout Horizantaly or Verticaly as you desire and comfertable.
-                               Menu to change layour is as shown in the above pic.
+             The Window of the Application First Appears as this.
+             Application has two text window Superated equaly at the Center.
+             You can select Two type of layout Horizantaly or Verticaly as you desire and comfertable.
+             Menu to change layour is as shown in the above pic.
                                
 Pics 2:
 
 <img width="503" alt="pic2" src="https://user-images.githubusercontent.com/63283543/135707057-4091fd94-8315-4ed5-bc77-6f27af9c075a.png"> <img width="503" alt="pic2 1" src="https://user-images.githubusercontent.com/63283543/135707081-2ab868ec-10a5-44b5-9540-fc5f8faf4b4d.png">
 
-                                                     Enter the watermark text
+                               
                               
 
 Pics 3:
