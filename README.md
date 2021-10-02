@@ -28,7 +28,7 @@ Pic 1:
                                
 Pic 2:
 
-<img width="526" alt="create WTR mark" src="https://user-images.githubusercontent.com/63283543/126078940-b0b6a8c9-73c0-4d95-8142-003fac00f727.png">
+<img width="503" alt="pic2" src="https://user-images.githubusercontent.com/63283543/135707057-4091fd94-8315-4ed5-bc77-6f27af9c075a.png"> <img width="503" alt="pic2 1" src="https://user-images.githubusercontent.com/63283543/135707081-2ab868ec-10a5-44b5-9540-fc5f8faf4b4d.png">
 
                                                      Enter the watermark text
                               
