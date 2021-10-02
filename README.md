@@ -21,8 +21,7 @@ Some of the **Snap Shots** of the application are shared below as Users menu.
 
 Pic 1:
 
-<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
-
+![](<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">)  |  ![](<img width="526" alt="create WTR mark" src="https://user-images.githubusercontent.com/63283543/126078940-b0b6a8c9-73c0-4d95-8142-003fac00f727.png">)
                                The Window of the Application to create and merge the Watermark in PDF
                                
 Pic 2:
