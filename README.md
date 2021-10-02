@@ -33,7 +33,10 @@ Pics 2:
 
 <img width="503" alt="pic2" src="https://user-images.githubusercontent.com/63283543/135707057-4091fd94-8315-4ed5-bc77-6f27af9c075a.png"> <img width="503" alt="pic2 1" src="https://user-images.githubusercontent.com/63283543/135707081-2ab868ec-10a5-44b5-9540-fc5f8faf4b4d.png">
 
-                               
+            In the First Text window type the Message You need to encode.
+            Press The encode menu to encode the message.
+            Encoded String is displayed in the second text Window
+            Same way past the encoded Massage and Press Decode and get the actual Message to Read.
                               
 
 Pics 3:
