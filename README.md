@@ -51,7 +51,8 @@ Pic 4:
                                
 Pic 5:
 
-<img width="524" alt="font" src="https://user-images.githubusercontent.com/63283543/126078991-8def4149-b76a-4c86-a5cf-5bebe2f62501.png">
+<img width="503" alt="pic5 1" src="https://user-images.githubusercontent.com/63283543/135707465-5ec25f39-2ed3-4d79-b88c-31d867af4260.png"> <img width="503" alt="pic5 2" src="https://user-images.githubusercontent.com/63283543/135707471-7dd9210e-af3f-47a8-b0dc-f6f08ef56cb0.png">
+<img width="503" alt="pic5 3" src="https://user-images.githubusercontent.com/63283543/135707474-15c3f9b0-1faf-4ca6-8954-85028fd26df6.png"> <img width="503" alt="pic 5 4" src="https://user-images.githubusercontent.com/63283543/135707479-f4366eab-4b0c-43f9-a62b-2aa7acf1d1b3.png">
 
                                       Select the font Size of the  text to be Water Marked
                                
