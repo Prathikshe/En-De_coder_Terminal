@@ -21,7 +21,7 @@ Some of the **Snap Shots** of the application are shared below as Users menu.
 
 Pic 1:
 
-<img width="524" alt="window" src="https://user-images.githubusercontent.com/63283543/126078848-42ec3019-faf9-4f25-979c-92b596eeee94.png">
+<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
 
                                The Window of the Application to create and merge the Watermark in PDF
                                
