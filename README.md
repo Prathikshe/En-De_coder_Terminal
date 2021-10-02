@@ -51,20 +51,21 @@ Pic 4:
                                
 Pic 5:
 
-<img width="503" alt="pic5 1" src="https://user-images.githubusercontent.com/63283543/135707465-5ec25f39-2ed3-4d79-b88c-31d867af4260.png"> <img width="503" alt="pic5 2" src="https://user-images.githubusercontent.com/63283543/135707471-7dd9210e-af3f-47a8-b0dc-f6f08ef56cb0.png">
-<img width="503" alt="pic5 3" src="https://user-images.githubusercontent.com/63283543/135707474-15c3f9b0-1faf-4ca6-8954-85028fd26df6.png"> <img width="503" alt="pic 5 4" src="https://user-images.githubusercontent.com/63283543/135707479-f4366eab-4b0c-43f9-a62b-2aa7acf1d1b3.png">
+<img width="1008" alt="pic6" src="https://user-images.githubusercontent.com/63283543/135707603-9d832604-0b43-4698-9bee-41e83e632ee0.png">
+<img width="960" alt="pic6 1" src="https://user-images.githubusercontent.com/63283543/135707605-b1e520de-6faf-42d6-9fe2-1c89851eea33.png">
+
 
                                       Select the font Size of the  text to be Water Marked
                                
 Pic 6:
 
-<img width="265" alt="wtrmarkCreated" src="https://user-images.githubusercontent.com/63283543/126079091-65be5000-4606-425c-a904-5cc814b0c015.png">
-
+<img width="503" alt="pic5 1" src="https://user-images.githubusercontent.com/63283543/135707465-5ec25f39-2ed3-4d79-b88c-31d867af4260.png"> <img width="503" alt="pic5 2" src="https://user-images.githubusercontent.com/63283543/135707471-7dd9210e-af3f-47a8-b0dc-f6f08ef56cb0.png">
+<img width="503" alt="pic5 3" src="https://user-images.githubusercontent.com/63283543/135707474-15c3f9b0-1faf-4ca6-8954-85028fd26df6.png"> <img width="503" alt="pic 5 4" src="https://user-images.githubusercontent.com/63283543/135707479-f4366eab-4b0c-43f9-a62b-2aa7acf1d1b3.png">
 
                                                      Water Marked PDF
 Pic 7:
 
-<img width="525" alt="full" src="https://user-images.githubusercontent.com/63283543/126079132-421d9e9f-3289-4964-8223-64c779b6ca41.png">
+
 
 
                                           Browse the original PDF and Watermarked pdf
@@ -72,7 +73,7 @@ Pic 7:
                                                 Watermarked pdf: jois.pdf
 Pic 8:
 
-<img width="294" alt="mergedpage" src="https://user-images.githubusercontent.com/63283543/126079163-f3e467f4-ace1-425f-930c-2e4941bb440a.png">
+
 
 
                                              Original PDF with Watermark
