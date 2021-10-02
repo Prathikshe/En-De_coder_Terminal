@@ -43,6 +43,7 @@ Pics 3:
 
 
 <img width="503" alt="pic3" src="https://user-images.githubusercontent.com/63283543/135707166-7136beb1-e3c9-4922-84c2-c99f185dba42.png"> <img width="503" alt="pic3 1" src="https://user-images.githubusercontent.com/63283543/135707174-40328a51-1b13-41db-824f-a06fe9874679.png">
+
             In the First Text window type the Message You need to encode.
             Press The Ascii encode menu to encode the message.
             Encoded Ascii Code is displayed in the second text Window.
